@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Jean-Baptiste, a french software engineer 🇫🇷
+
+- 🔭 I’m currently working on delivering massive software updates through peer-to-peer mesh networks
+- 💬 Ask me about C++, Android, iOS, or JavaScript
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jlouazel/)
+- ⚡ Fun fact:
+  - You found me on GitHub, will you find me now on Netflix? 🎥
+  - When I was younger, I was France champion of underwater hockey 🏊‍♂️ 🏒
+
 <!--
 **jlouazel/jlouazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
