@@ -8,6 +8,8 @@ I'm Jean-Baptiste, a french software engineer 🇫🇷
 - ⚡ Fun facts:
   - You found me on GitHub, will you find me now on Netflix? 🎥
   - When I was younger, I was France champion of underwater hockey 🏊‍♂️ 🏒
+- 📝 Articles I wrote:
+  - [Delivering proprietary libraries via Amazon S3](https://medium.com/streamroot-developers-blog/delivering-proprietary-libraries-via-amazon-s3-5aea2b7ccac8)
 
 <!--
 **jlouazel/jlouazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
