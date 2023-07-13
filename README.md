@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jean-Baptiste, a French software engineer based in Los Angeles, specializing in video streaming and WebRTC technology 🇫🇷 🇺🇸
+I'm Jean-Baptiste, a French software engineer based in Los Angeles, specializing in video streaming and WebRTC 🇫🇷 🇺🇸
 
 - 🔭 I’m currently working at Lumen as a Senior Software Engineer, focusing on CDN caching and HTTP/3 topics.
 - 🌱 I have extensive experience in the video streaming industry, with a strong focus on video delivery and WebRTC technology.
