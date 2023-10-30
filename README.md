@@ -1,13 +1,27 @@
-### Hi there 👋
+### Hey there, I'm JB! 👋
 
-I'm Jean-Baptiste, a French software engineer based in Los Angeles, specializing in video streaming and WebRTC 🇫🇷 🇺🇸
+📍 **Location**: Los Angeles, CA 🌴  
+🏢 **Current Gig**: Senior Software Engineer at Lumen  
+🔌 **Specialty**: Video Streaming, WebRTC, CDN Caching
 
-- 🔭 I’m currently working at Lumen as a Senior Software Engineer, focusing on CDN caching and HTTP/3 topics.
-- 🌱 I have extensive experience in the video streaming industry, with a strong focus on video delivery and WebRTC technology.
-- 💬 Ask me about C++, Python, JavaScript, Kotlin, Java, Swift, Android, iOS, Docker, CMake, Protobuf, HLS, Dash, Video Player Architecture, and Adaptive Bitrate Algorithms.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jlouazel/)
-- ⚡ Fun facts:
-  - You found me on GitHub, will you find me now on Netflix? 🎥
-  - When I was younger, I was France champion of underwater hockey 🏊‍♂️ 🏒
-- 📝 Articles I wrote:
-  - [Delivering proprietary libraries via Amazon S3](https://medium.com/streamroot-developers-blog/delivering-proprietary-libraries-via-amazon-s3-5aea2b7ccac8)
+#### What I'm up to
+
+- 🌐 Revamping CDN caching strategies and diving into HTTP/2 & HTTP/3 at Lumen
+- 💡 Actively learning and working on projects in Rust to become proficient
+
+#### Tech Stack
+
+- **Languages**: C/C++, Python, JavaScript
+- **Tools & Frameworks**: WebRTC, Docker, CMake, Protobuf
+- **Media Streaming**: HLS, Dash, Video Player Architecture, Adaptive Bitrate Algorithms
+
+#### Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jlouazel/)
+- [GitHub](https://github.com/jlouazel)
+
+#### Side Notes
+
+- 🎤 Occasional speaker at tech conferences like Demuxed and IBC
+- 🕹 Currently developing a mobile maze-solving game using Rust and Flutter
+- 🎮 When I'm not coding, you'll find me learning new skills or exploring LA
