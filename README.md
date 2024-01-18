@@ -1,7 +1,7 @@
 ### Hey there, I'm JB! 👋
 
 📍 **Location**: Los Angeles, CA 🌴  
-🏢 **Current Gig**: Senior Software Engineer at Lumen  
+🏢 **Current Gig**: Senior Software Engineer, CDN Caching, at Lumen  
 🔌 **Specialty**: Video Streaming, WebRTC, CDN Caching
 
 #### What I'm up to
@@ -11,9 +11,9 @@
 
 #### Tech Stack
 
-- **Languages**: C/C++, Python, JavaScript
-- **Tools & Frameworks**: WebRTC, Docker, CMake, Protobuf
-- **Media Streaming**: HLS, Dash, Video Player Architecture, Adaptive Bitrate Algorithms
+- **Languages**: C/C++, Rust, Python, JavaScript
+- **Tools & Frameworks**: WebRTC, GraphQL, Docker, CMake, Protobuf
+- **Media Streaming**: HLS, Dash, Video Player Architecture, Adaptive Bitrate Algorithms, Server-Side Ad-Insertion
 
 #### Let's Connect
 
